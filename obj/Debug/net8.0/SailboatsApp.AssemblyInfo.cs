@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SailboatsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96833ac66209af7792d3ac56f4c93931c6855086")]
 [assembly: System.Reflection.AssemblyProductAttribute("SailboatsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SailboatsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
